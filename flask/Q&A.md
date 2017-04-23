@@ -8,3 +8,10 @@
 ### A:将host改为 0.0.0.0
 
 将`app.run()`改为`app.run("0.0.0.0")` 
+
+搜索关键字： `flask virtualbox 无法访问`
+
+页面参考：
+
+http://dnfehren.github.io/blog/2012/07/20/use-python-flask-server-through-nat-virtualbox-guest/
+https://www.v2ex.com/t/ 
