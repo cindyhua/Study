@@ -1,8 +1,3 @@
-# Vgrant 安装
-
-参阅：https://github.com/astaxie/go-best-practice/blob/master/ebook/zh/01.2.md
-
-# 问题
 ### Q:安装ubuntu-16.10 box后，用apt-get更新文件时，发现链接的是美国IP
 
 ### A:更新镜像
